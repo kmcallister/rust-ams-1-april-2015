@@ -14,7 +14,7 @@ __Want to see an idea/issue/project listed here? Feel free to open a PR!__
 
 ## Rustc
 
-Advice: try to build the compiler from source before the meetup, since you will need to compile LLVM wich can take about an hour.
+Advice: try to build the compiler from source before the meetup, since you will need to compile LLVM which can take about an hour.
 
 * https://github.com/rust-lang/rust/issues/21435 ([aochagavia](https://github.com/aochagavia) can mentor)
 
